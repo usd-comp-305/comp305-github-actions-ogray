@@ -6,7 +6,7 @@ public final class Main {
     }
 
     /**
-     * This class prints "Hello and welcome!" as well as prints a bunch of numbers for some reason
+     * This class prints "Hello and welcome!"
      *
      * @param args : command line arguments
      */
